@@ -1,0 +1,22 @@
+{
+  "name": "rtf2html",
+  "version": "1.0.0",
+  "description": "RTF to HTML Parser",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/urbanspr1nter/rtf2html.git"
+  },
+  "author": "Roger Ngo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/urbanspr1nter/rtf2html/issues"
+  },
+  "homepage": "https://github.com/urbanspr1nter/rtf2html#readme",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
